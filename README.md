@@ -45,7 +45,7 @@ Os requisitos para o sistema estão registrados no formato de [USer Stories](htt
 
 Depois que sua solicitação for aceita e adicionada ao projeto, você poderá excluir sua ramificação.
 
-## :key: License:
+## :key: Licença:
 
 Este projeto está sob licença do MIT, para mais detalhes verifique em [LICENSE][license]. <br>
 Fique a vontade para trazer novas funcionalidades ou corrigir problemas, será um prazer! 💜
