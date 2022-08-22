@@ -1,17 +1,19 @@
 # Visão Geral
 
-O sistema em questão tem a função de organizar e manter o cadastro e visualização de informações referentes a concessão, renovação e cancelamento de bolsas de mestrado e doutorado, com critérios de corte e aprovação/reprovação dos professores (revisores e auditores).
+O sistema em questão tem a função de organizar e gerenciar os processos seletivos para concessão de bolsas de mestrado e doutorado do PGCOMP/UFBA.
 
+Adotou-se a técnica de **User Stories** para a descrição dos principais requisitos funcionais. O objetivo principal deste modelo é produzir uma visão das necessidades do sistema, através da explicação a partir do ponto de vista do usuário, de uma forma clara, curta e objetiva (sem detalhes de implementação).
+
+Posteriormente, critérios de aceitação (baseados em regras de negócio e/ou requisitos não funcionais) podem ser anexados aos *user stories* para a validação, conforme alinhamento com a parte interessada.
 
 # Requisitos funcionais:
 
-
 ## User Stories
 
-Abaixo seguem as *user stories*, identificadas unicamente por um código **US-<numero>
+Abaixo seguem as *user stories*, identificadas unicamente por um código de prefixo **US**. No corpo de uma user story, em negrito, há a identificação da *persona*, também comumente conhecido como autor.
 
 
-**US-01.** Como **qualquer usuário do sistema**, quero poder alterar meus dados de acesso ao sistema.
+**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
 
 **US-02.**  Como **usuário ROOT do Sistema**, quero poder gerenciar os cadastros dos professores do PGCOMP.
 
@@ -55,7 +57,10 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código **US-<n
 
 # Requisitos não-funcionais:
  
-- O sistema vai ser operado via interface Web e protocolo HTTP.
-- O sistema deve ter padrão REST conectando backend e frontend.
-- O usuário deverá ser capaz de utilizar o sistema tanto no desktop quanto mobile.
-- Armazenamento em banco dos dados de usuário e documentações enviadas.
+- [arquitetura] O sistema vai ser operado via interface Web e protocolo HTTP e HTTPS (TLS/SSL).
+- [arquitetura] O sistema deve ter padrão REST conectando, ao mínimo, um backend e um frontend.
+- [arquitetura] O sistema deve armazenar em banco dos dados, todas as informações necessárias
+- [disponibilidade] O sistema apresentará disponibilidade máxima limitada ao fornecido pelo nível de serviço gratuito da hospedagem contratada
+- [desempenho] O sistema estará limitado ao desempenho fornecido pelo nível de serviço gratuito da hospedagem contratada
+- [usabilidade] O usuário deverá ser capaz de utilizar o sistema tanto no desktop quanto mobile (tablets e smartphones), através de uma interface responsiva.
+- [legal] O sistema deve atender às normas legais, como a Resolução 01/2022 do PGCOMP/UFBA
