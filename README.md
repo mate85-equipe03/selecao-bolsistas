@@ -19,6 +19,8 @@ Trabalho da disciplina MATE85 - Tópicos em Sistemas de Informação e Web I
 
 Equipe 03 - Semestre 2022.01
 
+O sistema foi desenvolvido com o objetivo de fazer o gerenciamento de inscrições das bolsas de mestrado e doutorado associadas ao programa [PGCOMP](https://pgcomp.ufba.br/). 
+
 ## Requisitos
 
 Os requisitos para o sistema estão registrados no formato de [USer Stories](https://en.wikipedia.org/wiki/User_story), disponíveis [aqui](docs/requirements/index.md)
