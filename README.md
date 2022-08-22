@@ -1,5 +1,4 @@
-mate85-grupo3-sistemas-selecao-bolsistas
-
+# mate85-grupo3-sistemas-selecao-bolsistas
 
 Trabalho da disciplina MATE85 - Tópicos em Sistemas de Informação e Web I
 
