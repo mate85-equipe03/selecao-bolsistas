@@ -13,12 +13,11 @@
 
 --- 
 
-## mate85-grupo3-sistemas-selecao-bolsistas
+## :interrobang: O que é o Sistema de Inscrição/Seleção de Bolsas do PGCOMP?
 
 Trabalho da disciplina MATE85 - Tópicos em Sistemas de Informação e Web I
 
-## :interrobang: O que é o sistema de inscrição de bolsas do PGCOMP?
-
+Equipe 03 - Semestre 2022.01
 
 ## Requisitos
 
@@ -53,7 +52,7 @@ Fique a vontade para trazer novas funcionalidades ou corrigir problemas, será u
 ---
 
 
-[license]: https://github.com/i-ramoss/Foodfy/blob/master/LICENSE
+[license]: LICENSE.md
 
 
 
