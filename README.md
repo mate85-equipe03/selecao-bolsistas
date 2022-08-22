@@ -23,7 +23,7 @@ O sistema foi desenvolvido com o objetivo de fazer o gerenciamento de inscriçõ
 
 ## Requisitos
 
-Os requisitos para o sistema estão registrados no formato de [USer Stories](https://en.wikipedia.org/wiki/User_story), disponíveis [aqui](docs/requirements/index.md)
+Os requisitos para o sistema estão registrados no formato de [User Stories](https://en.wikipedia.org/wiki/User_story), disponíveis [aqui](docs/requirements/index.md)
 
 
 ## :construction_worker: Tecnologias:
