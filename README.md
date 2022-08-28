@@ -25,11 +25,16 @@ O sistema foi desenvolvido com o objetivo de fazer o gerenciamento de inscriçõ
 
 Os requisitos para o sistema estão registrados no formato de [User Stories](https://en.wikipedia.org/wiki/User_story), disponíveis [aqui](docs/requirements/index.md)
 
+## Design
+
+Acompanhe [aqui](docs/design/index.md) informações e documentação sobre o design da aplicação.
+
 
 ## :construction_worker: Tecnologias:
 
 
-
+* **Backend:** [Nest.js](https://nestjs.com/) (Node.js framework)
+* **Frontend:** [Angular](https://angular.io/)
 
 
 ## :construction_worker: Como Usar: 
