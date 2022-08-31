@@ -34,7 +34,7 @@ Acompanhe [aqui](docs/design/index.md) informações e documentação sobre o de
 
 
 * **Backend:** [Nest.js](https://nestjs.com/) (Node.js framework)
-* **Frontend:** [Angular](https://angular.io/)
+* **Frontend:** [React](https://pt-br.reactjs.org/)
 
 
 ## :construction_worker: Como Usar: 
