@@ -29,7 +29,7 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 
 * **Gerência do Projeto:** Matheus Andrade e Rodrigo Meliande
 * **Desenvolvedores Backend:** Djair Maykon (Tech Lead), Augusto Barreto, José Fernando e Matheus Andrade
-* **Desenvolvedores Frontend:** Beatriz de Jesus (Tech Lead), Lucas Barreto, Alexandre dos Santos, Kennedy Rocha e Rodrigo Meliande
+* **Desenvolvedores Frontend:** Beatriz de Jesus (Tech Lead), Lucas Barreto, Beatriz Morais, Alexandre dos Santos, Kennedy Rocha e Rodrigo Meliande
 
 ## Documentação
 
