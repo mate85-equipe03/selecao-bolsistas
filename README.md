@@ -3,55 +3,59 @@
 </div>
 
 <p align="center">
-  <a href="#interrobang-what-is-rentx">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-how-to-use-developing">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-documentation">Docs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#confetti_ball-how-to-contribute">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#key-license">License</a>
+  <a href="#sistema-de-gestão-de-processo-seletivo-para-concessão-de-bolsas-institucionais-de-mestrado-e-doutorado-do-pgcompufba">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#informações-gerais">Informações Gerais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#equipe">Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">License</a>
 </p>
 
 --- 
 
-## :interrobang: O que é o Sistema de Inscrição/Seleção de Bolsas do PGCOMP?
+## Sistema de Gestão de Processo Seletivo para Concessão de Bolsas Institucionais de Mestrado e Doutorado do PGCOMP/UFBA
 
-Trabalho da disciplina MATE85 - Tópicos em Sistemas de Informação e Web I
+Este sistema possui o objetivo de organizar e gerenciar os processos seletivos para concessão de bolsas institucionais de Mestrado e Doutorado do Programa de Pós-Graduação em Ciência da Computação (PGCOMP) da Universidade Federal da Bahia (UFBA).
 
-Equipe 03 - Semestre 2022.01
+O PGCOMP, através da [Resolução nº 01/2022](https://pgcomp.ufba.br/sites/pgcomp.ufba.br/files/2022_resolucao_01_-_pgcomp_-concessaodebolsas_0.pdf), considera como bolsas institucionais aquelas bolsas oriundas das agências de fomento, recebidas como cotas e não vinculadas a projetos de pesquisa.
 
-O sistema foi desenvolvido com o objetivo de fazer o gerenciamento de inscrições das bolsas de mestrado e doutorado associadas ao programa [PGCOMP](https://pgcomp.ufba.br/). 
+A Coordenação do PGCOMP/UFBA, no uso de suas atribuições legais, realiza, por meio de Editais próprios, a abertura de processos seletivos para concessão de Bolsas de Mestrado e Doutorado, conforme disposto na Resolução 01/2022.
 
-## Requisitos
+## Informações Gerais
 
-Os requisitos para o sistema estão registrados no formato de [User Stories](https://en.wikipedia.org/wiki/User_story), disponíveis [aqui](docs/requirements/index.md)
+Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sistemas de Informação e Web I**, semestre **2022.2**, sob a orientação do **Professor Fred Durão**.
 
-## Design
+### Equipe
 
-Acompanhe [aqui](docs/design/index.md) informações e documentação sobre o design da aplicação.
+* **Gerência do Projeto:** Matheus Andrade e Rodrigo Meliande
+* **Desenvolvedores Backend:** Djair Maykon (Tech Lead), Augusto Barreto, José Fernando e Matheus Andrade
+* **Desenvolvedores Frontend:** Beatriz de Jesus (Tech Lead), Lucas Barreto, Alexandre dos Santos, Kennedy Rocha e Rodrigo Meliande
+
+## Documentação
+
+* [Requisitos/User Stories](docs/requirements/index.md)
+* [Prototipação de Telas](https://www.figma.com/file/j2yQ8paIOmyaE0sPTv3wHC/posgress?node-id=0%3A1)
+* [Modelo Lógico de Dados](design/modelo_logico_dados.md)
+
+## Tecnologias
+
+### Backend
+
+* JavaScript
+* [TypeScript](https://www.typescriptlang.org/)
+* [Node.js](https://nodejs.org/)
+* [NestJS](https://nestjs.com/)
+* [Express](https://expressjs.com/)
+* [Prisma](https://www.prisma.io/)
+* [Postgres](https://www.postgresql.org/)
+
+### Frontend
+
+* [React](https://pt-br.reactjs.org/)
 
 
-## :construction_worker: Tecnologias:
 
-
-* **Backend:** [Nest.js](https://nestjs.com/) (Node.js framework)
-* **Frontend:** [React](https://pt-br.reactjs.org/)
-
-
-## :construction_worker: Como Usar: 
-
-
-
-
-## :confetti_ball: Como Contribuir:
-
--  Faça um fork;
--  Crie um branch com sua funcionalidade: `git checkout -b <your_feature_name>`;`;
--  Envie as alterações feitas: `git commit -am 'type(scope): <description>'`;
--  Envie sua branch: `git push origin <your_branch_name>`.
-
-Depois que sua solicitação for aceita e adicionada ao projeto, você poderá excluir sua ramificação.
-
-## :key: Licença:
+## Licença
 
 Este projeto está sob licença do MIT, para mais detalhes verifique em [LICENSE][license]. <br>
 Fique a vontade para trazer novas funcionalidades ou corrigir problemas, será um prazer! 💜
