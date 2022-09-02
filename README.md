@@ -7,7 +7,7 @@
   <a href="#informações-gerais">Informações Gerais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#equipe">Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-e-repositórios-de-desenvolvimento">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">License</a>
 </p>
 
@@ -37,9 +37,11 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 * [Prototipação de Telas](https://www.figma.com/file/j2yQ8paIOmyaE0sPTv3wHC/posgress?node-id=0%3A1)
 * [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
 
-## Tecnologias
+## Tecnologias e Repositórios de Desenvolvimento
 
 ### Backend
+
+Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/mate85-equipe03/backend)
 
 * JavaScript
 * [TypeScript](https://www.typescriptlang.org/)
@@ -50,6 +52,8 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 * [Postgres](https://www.postgresql.org/)
 
 ### Frontend
+
+Repositório: [https://github.com/mate85-equipe03/frontend](https://github.com/mate85-equipe03/frontend)
 
 * [React](https://pt-br.reactjs.org/)
 
