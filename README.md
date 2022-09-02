@@ -13,7 +13,7 @@
 
 --- 
 
-## Sistema de Gestão de Processo Seletivo para Concessão de Bolsas Institucionais de Mestrado e Doutorado do PGCOMP/UFBA
+## Sistema de Gestão de Processos Seletivos para Concessão de Bolsas Institucionais de Mestrado e Doutorado do PGCOMP/UFBA
 
 Este sistema possui o objetivo de organizar e gerenciar os processos seletivos para concessão de bolsas institucionais de Mestrado e Doutorado do Programa de Pós-Graduação em Ciência da Computação (PGCOMP) da Universidade Federal da Bahia (UFBA).
 
@@ -35,7 +35,7 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 
 * [Requisitos/User Stories](docs/requirements/index.md)
 * [Prototipação de Telas](https://www.figma.com/file/j2yQ8paIOmyaE0sPTv3wHC/posgress?node-id=0%3A1)
-* [Modelo Lógico de Dados](design/modelo_logico_dados.md)
+* [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
 
 ## Tecnologias
 
