@@ -41,6 +41,7 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 
 ### Backend
 
+URL: https://radiant-cliffs-95153.herokuapp.com/api/
 Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/mate85-equipe03/backend)
 
 * JavaScript
@@ -53,15 +54,15 @@ Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/ma
 
 ### Frontend
 
+URL: https://main--regal-lollipop-34a945.netlify.app/login
 Repositório: [https://github.com/mate85-equipe03/frontend](https://github.com/mate85-equipe03/frontend)
 
+* JavaScript
+* [TypeScript](https://www.typescriptlang.org/)
 * [React](https://pt-br.reactjs.org/)
-
-### Deploy
-
-Frontend: https://main--regal-lollipop-34a945.netlify.app/login
-
-Backend: https://radiant-cliffs-95153.herokuapp.com/api/
+* [Vitest](https://vitest.dev/)
+* [Material Design](https://material.io/)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 ## Licença
