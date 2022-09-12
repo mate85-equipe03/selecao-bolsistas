@@ -60,6 +60,7 @@ Repositório: [https://github.com/mate85-equipe03/frontend](https://github.com/m
 ### Deploy
 
 Frontend: https://main--regal-lollipop-34a945.netlify.app/login
+
 Backend: https://radiant-cliffs-95153.herokuapp.com/api/
 
 
