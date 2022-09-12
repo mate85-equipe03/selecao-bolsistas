@@ -36,12 +36,14 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 * [Requisitos/User Stories](docs/requirements/index.md)
 * [Prototipação de Telas](https://www.figma.com/file/j2yQ8paIOmyaE0sPTv3wHC/posgress?node-id=0%3A1)
 * [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
+* [Logo](https://www.canva.com/design/DAFLwlGOsJs/wcH0fLJuByu4h5xmKGiQTQ/edit?utm_content=DAFLwlGOsJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Tecnologias e Repositórios de Desenvolvimento
 
 ### Backend
 
 URL: https://radiant-cliffs-95153.herokuapp.com/api/
+
 Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/mate85-equipe03/backend)
 
 * JavaScript
@@ -55,6 +57,7 @@ Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/ma
 ### Frontend
 
 URL: https://main--regal-lollipop-34a945.netlify.app/login
+
 Repositório: [https://github.com/mate85-equipe03/frontend](https://github.com/mate85-equipe03/frontend)
 
 * JavaScript
