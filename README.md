@@ -32,7 +32,7 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 * **Desenvolvedores Frontend:** Beatriz de Jesus (Tech Lead), Lucas Barreto, Beatriz Morais, Alexandre dos Santos, Kennedy Rocha e Rodrigo Meliande
 
 ## Documentação
-
+* [Arquitetura](https://github.com/mate85-equipe03/selecao-bolsistas/blob/main/docs/design/arquitetura_time_3.png)
 * [Requisitos/User Stories](docs/requirements/index.md)
 * [Prototipação de Telas](https://www.figma.com/file/j2yQ8paIOmyaE0sPTv3wHC/posgress?node-id=0%3A1)
 * [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
