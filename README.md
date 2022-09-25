@@ -31,12 +31,20 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 * **Desenvolvedores Backend:** Djair Maykon (Tech Lead), Augusto Barreto, José Fernando e Matheus Andrade
 * **Desenvolvedores Frontend:** Beatriz de Jesus (Tech Lead), Lucas Barreto, Beatriz Morais, Alexandre dos Santos, Kennedy Rocha e Rodrigo Meliande
 
+## Demo
+
+Acesse:
+
+  https://posgress.netlify.app/
+
 ## Documentação
 * [Arquitetura](https://github.com/mate85-equipe03/selecao-bolsistas/blob/main/docs/design/arquitetura_time_3.png)
 * [Requisitos/User Stories](docs/requirements/index.md)
 * [Prototipação de Telas](https://www.figma.com/file/j2yQ8paIOmyaE0sPTv3wHC/posgress?node-id=0%3A1)
 * [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
 * [Logo](https://www.canva.com/design/DAFLwlGOsJs/wcH0fLJuByu4h5xmKGiQTQ/edit?utm_content=DAFLwlGOsJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Kanban Backend](https://github.com/orgs/mate85-equipe03/projects/4) | [Kanban FrontEnd](https://mate85-equipe03.atlassian.net/jira/software/projects/PG/boards/3)
+* [Status de Implementaçã]
 
 ## Tecnologias e Repositórios de Desenvolvimento
 
@@ -56,7 +64,7 @@ Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/ma
 
 ### Frontend
 
-URL: https://main--regal-lollipop-34a945.netlify.app/login
+URL: https://posgress.netlify.app/
 
 Repositório: [https://github.com/mate85-equipe03/frontend](https://github.com/mate85-equipe03/frontend)
 
