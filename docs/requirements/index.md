@@ -12,6 +12,7 @@ Posteriormente, critérios de aceitação (baseados em regras de negócio e/ou r
 
 Abaixo seguem as *user stories*, identificadas unicamente por um código de prefixo **US**. No corpo de uma user story, em negrito, há a identificação da *persona*, também comumente conhecido como autor.
 
+**US-00.** Como **qualquer usuário elegível do sistema**, quero poder me cadastrar no sistema.
 
 **US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
 
