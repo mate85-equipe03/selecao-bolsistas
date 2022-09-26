@@ -54,6 +54,33 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 **US-17.** Como **professor membro da Comissão do PS**, quero liberar o resultado final do processo.
 
+## Status de Implementação/Implantação das Users Stories
+
+* **Nova:**         estado inicial e ninguém começou a trabalhar nela ainda;
+* **Em progresso:**  elencado um responsável e início de implementação;
+* **Finalizado:**   implementação finalizada
+* **Aceita:**       requisito formalmente aceito pelo Product Owner (Prof. Fred)
+
+| User Story | Status |
+|------------|--------|
+| US-00      | Em progresso |
+| US-01      | Em progresso |
+| US-02      | Nova |
+| US-03      | Nova |
+| US-04      | Nova |
+| US-05      | Em progresso |
+| US-06      |  Nova  |
+| US-07      |  Nova  |
+| US-08      |  Nova  |
+| US-09      |  Nova  |
+| US-10      |  Nova  |
+| US-11      |  Nova  |
+| US-12      |  Nova  |
+| US-13      |  Nova  |
+| US-14      |  Nova  |
+| US-15      |  Nova  |
+| US-16      |  Nova  |
+| US-17      |  Nova  |
 
 
 # Requisitos não-funcionais:
