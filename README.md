@@ -45,13 +45,15 @@ Acesse:
 * [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
 * [Logo](https://www.canva.com/design/DAFLwlGOsJs/wcH0fLJuByu4h5xmKGiQTQ/edit?utm_content=DAFLwlGOsJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * [Kanban Backend](https://github.com/orgs/mate85-equipe03/projects/4) | [Kanban FrontEnd](https://mate85-equipe03.atlassian.net/jira/software/projects/PG/boards/3)
-* [Status de Implementaçã]
 
 ## Tecnologias e Repositórios de Desenvolvimento
 
 ### Backend
 
-URL: https://radiant-cliffs-95153.herokuapp.com/api/
+URLs:
+- production: https://bolsa-api-prd.herokuapp.com/
+- develop: https://radiant-cliffs-95153.herokuapp.com/
+
 
 Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/mate85-equipe03/backend)
 
