@@ -69,7 +69,7 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 | US-03      | Nova |
 | US-04      | Nova |
 | US-05      | Em progresso |
-| US-06      |  Nova  |
+| US-06      |  Em progresso  |
 | US-07      |  Nova  |
 | US-08      |  Nova  |
 | US-09      |  Nova  |
