@@ -46,6 +46,7 @@ Acesse:
 * [Modelo Lógico de Dados](docs/design/modelo_logico_dados.md)
 * [Logo](https://www.canva.com/design/DAFLwlGOsJs/wcH0fLJuByu4h5xmKGiQTQ/edit?utm_content=DAFLwlGOsJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * [Kanban Backend](https://github.com/orgs/mate85-equipe03/projects/4) | [Kanban FrontEnd](https://mate85-equipe03.atlassian.net/jira/software/projects/PG/boards/3)
+* [Plano de Testes](docs/test/index.md)
 
 ## Tecnologias e Repositórios de Desenvolvimento
 
