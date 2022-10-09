@@ -24,11 +24,11 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟨**US-05.** Como **candidato**, quero fazer a inscrição em um Processo Seletivo com prazo de inscrição disponível, inserindo informações e enviando documentos.
 
-🟥**US-06.** Como **candidato**, quero poder alterar os dados de minha inscrição em um Processo Seletivo, durante o período disponível de inscrição.
+🟨**US-06.** Como **candidato**, quero poder alterar os dados de minha inscrição em um Processo Seletivo, durante o período disponível de inscrição.
 
-🟥**US-07.** Como **candidato**, quero receber um email de confirmação de inscrição em um processo seletivo ao qual me inscrevi.
+🟨**US-07.** Como **candidato**, quero receber um email de confirmação de inscrição em um processo seletivo ao qual me inscrevi.
 
-🟥**US-08.** Como **candidato**, quero ter acesso ao sistema para acompanhar o status da minha inscrição no processo seletivo.
+🟨**US-08.** Como **candidato**, quero ter acesso ao sistema para acompanhar o status da minha inscrição no processo seletivo.
 
 🟨**US-09.** Como **professor membro da Comissão do PS**, quero acompanhar a lista de candidatos inscritos em determinado edital.
 
