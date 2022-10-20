@@ -10,29 +10,23 @@ Posteriormente, critérios de aceitação (baseados em regras de negócio e/ou r
 
 ## User Stories
 
-Abaixo seguem as *user stories*, identificadas unicamente por um código de prefixo **US**. No corpo de uma user story, em negrito, há a identificação da *persona*, também comumente conhecido como autor.
+Abaixo seguem as *user stories*, identificadas unicamente por um código de prefixo **US**. No corpo de uma user story, em negrito, há a identificação da *persona*, também comumente conhecido como autor. Ordenada por status (finalizadas, em andamento e finalizadas) e prioridade de desenvolvimento.
 
-🟨**US-00.** Como **qualquer usuário elegível do sistema**, quero poder me cadastrar no sistema.
+🟩**US-00.** Como **candidato**, quero poder me cadastrar no sistema.9
 
-🟨**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
+🟩**US-05.** Como **candidato**, quero fazer a inscrição em um Processo Seletivo com prazo de inscrição disponível, inserindo informações e enviando documentos.
 
-🟥**US-02.**  Como **usuário ROOT do Sistema**, quero poder gerenciar os cadastros dos professores do PGCOMP.
-
-🟥**US-03.** Como **usuário ROOT do Sistema**, quero poder criar um Processo Seletivo e inserir os professores da Comissão.
-
-🟥**US-04.** Como **professor membro da Comissão do PS**, quero gerenciar um Processo Seletivo (PS), inserindo/editando  informações básicas iniciais como nome, descrição, cronograma, upload do PDF, bolsas disponíveis para o processo conforme suas características (vagas, Mestrado/Doutorado, FAPESB/CNPQ/CAPES), etc..
-
-🟨**US-05.** Como **candidato**, quero fazer a inscrição em um Processo Seletivo com prazo de inscrição disponível, inserindo informações e enviando documentos.
-
-🟨**US-06.** Como **candidato**, quero poder alterar os dados de minha inscrição em um Processo Seletivo, durante o período disponível de inscrição.
-
-🟨**US-07.** Como **candidato**, quero receber um email de confirmação de inscrição em um processo seletivo ao qual me inscrevi.
+🟩**US-09.** Como **professor membro da Comissão do PS**, quero acompanhar a lista de candidatos inscritos em determinado edital.
 
 🟨**US-08.** Como **candidato**, quero ter acesso ao sistema para acompanhar o status da minha inscrição no processo seletivo.
 
-🟨**US-09.** Como **professor membro da Comissão do PS**, quero acompanhar a lista de candidatos inscritos em determinado edital.
-
 🟨**US-10.** Como **professor revisor**, quero ser capaz de analisar e classificar os documentos/informações de cada candidato inscrito com base nas informações fornecidas na candidatura.
+
+🟨**US-06.** Como **candidato**, quero poder alterar os dados de minha inscrição em um Processo Seletivo, durante o período disponível de inscrição.
+
+🟨**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
+
+🟨**US-07.** Como **candidato**, quero receber um email de confirmação de inscrição em um processo seletivo ao qual me inscrevi.
 
 🟥**US-11.** Como **professor auditor**, quero ser capaz de checar/verificar as informações inseridas pelo revisor nas inscrições. 
 
@@ -47,6 +41,12 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 🟥**US-13.** Como **professor membro da Comissão do PS**, quero acompanhar o ranking de candidatos inscritos em determinado PS após a validação das notas.
 
 🟥**US-14.** Como **professor membro da Comissão do PS**, após a computação das notas de todas as inscrições, quero liberar o resultado do processo.
+
+🟥**US-02.**  Como **usuário ROOT do Sistema**, quero poder gerenciar os cadastros dos professores do PGCOMP.
+
+🟥**US-03.** Como **usuário ROOT do Sistema**, quero poder criar um Processo Seletivo e inserir os professores da Comissão.
+
+🟥**US-04.** Como **professor membro da Comissão do PS**, quero gerenciar um Processo Seletivo (PS), inserindo/editando  informações básicas iniciais como nome, descrição, cronograma, upload do PDF, bolsas disponíveis para o processo conforme suas características (vagas, Mestrado/Doutorado, FAPESB/CNPQ/CAPES), etc..
 
 🟥**US-15.** Como **candidato**, após a liberação do resultado do processo, quero ter a oportunidade de submeter recurso ao Processo Seletivo.
 
