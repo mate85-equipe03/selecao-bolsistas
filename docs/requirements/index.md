@@ -18,7 +18,7 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟩**US-09.** Como **professor membro da Comissão do PS**, quero acompanhar a lista de candidatos inscritos em determinado edital.
 
-🟨**US-08.** Como **candidato**, quero ter acesso ao sistema para acompanhar o status da minha inscrição no processo seletivo.
+🟩**US-08.** Como **candidato**, quero ter acesso ao sistema para acompanhar o status da minha inscrição no processo seletivo.
 
 🟨**US-10.** Como **professor revisor**, quero ser capaz de analisar e classificar os documentos/informações de cada candidato inscrito com base nas informações fornecidas na candidatura.
 
@@ -26,7 +26,7 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟨**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
 
-🟨**US-07.** Como **candidato**, quero receber um email de confirmação de inscrição em um processo seletivo ao qual me inscrevi.
+🟩**US-07.** Como **candidato**, quero receber um email de confirmação de inscrição em um processo seletivo ao qual me inscrevi.
 
 🟥**US-11.** Como **professor auditor**, quero ser capaz de checar/verificar as informações inseridas pelo revisor nas inscrições. 
 
