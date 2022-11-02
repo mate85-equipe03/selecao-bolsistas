@@ -47,6 +47,7 @@ Acesse:
 * [Logo](https://www.canva.com/design/DAFLwlGOsJs/wcH0fLJuByu4h5xmKGiQTQ/edit?utm_content=DAFLwlGOsJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * [Kanban Backend](https://github.com/orgs/mate85-equipe03/projects/4) | [Kanban FrontEnd](https://mate85-equipe03.atlassian.net/jira/software/projects/PG/boards/3)
 * [Plano de Testes](docs/test/index.md)
+* [Documento de Implantação](https://docs.google.com/document/d/1fXFPbEcrWslb9WgyQiV8WR60qRF2jvIJ7VFmDgOCS8Q/edit?usp=sharing)
 
 ## Tecnologias e Repositórios de Desenvolvimento
 
