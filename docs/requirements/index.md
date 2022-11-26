@@ -42,11 +42,11 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟨**US-04.** Como **professor membro da Comissão do PS**, quero gerenciar um Processo Seletivo (PS), inserindo/editando informações básicas iniciais como nome, descrição, cronograma, upload do PDF, bolsas disponíveis para o processo conforme suas características (vagas, Mestrado/Doutorado, FAPESB/CNPQ/CAPES), etc.
 
+🟥**US-14.** Como **professor membro da Comissão do PS**, após a computação das notas de todas as inscrições, quero liberar o resultado do processo.
+
 🟥**US-11.2.** Como **professor auditor**, quero solicitar que o revisor análise/classifique novamente uma inscrição, caso seja identificada alguma incoerência na revisão da inscrição.
 
 🟥**US-11.3.** Como **professor revisor**, quero poder alterar minha análise/classificação com base no parecer da auditoria e finalizar o resultado de uma determinada inscrição	.
-
-🟥**US-14.** Como **professor membro da Comissão do PS**, após a computação das notas de todas as inscrições, quero liberar o resultado do processo.
 
 🟥**US-15.** Como **candidato**, após a liberação do resultado do processo, quero ter a oportunidade de submeter recurso ao Processo Seletivo.
 
