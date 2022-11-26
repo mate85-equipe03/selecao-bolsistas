@@ -32,8 +32,6 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟩**US-12.** Como **professor membro da Comissão do PS**, quero identificar as inscrições pendentes de revisão ou auditoria.
 
-🟨**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
-
 🟨**US-13.** Como **professor membro da Comissão do PS**, quero acompanhar o ranking de candidatos inscritos em determinado PS após a validação das notas.
 
 🟨**US-02.**  Como **usuário ROOT do Sistema**, quero poder gerenciar os cadastros dos professores do PGCOMP.
@@ -42,7 +40,9 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟨**US-04.** Como **professor membro da Comissão do PS**, quero gerenciar um Processo Seletivo (PS), inserindo/editando informações básicas iniciais como nome, descrição, cronograma, upload do PDF, bolsas disponíveis para o processo conforme suas características (vagas, Mestrado/Doutorado, FAPESB/CNPQ/CAPES), etc.
 
-🟥**US-14.** Como **professor membro da Comissão do PS**, após a computação das notas de todas as inscrições, quero liberar o resultado do processo.
+🟨**US-14.** Como **professor membro da Comissão do PS**, após a computação das notas de todas as inscrições, quero liberar o resultado do processo.
+
+🟨**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
 
 🟥**US-11.2.** Como **professor auditor**, quero solicitar que o revisor análise/classifique novamente uma inscrição, caso seja identificada alguma incoerência na revisão da inscrição.
 
