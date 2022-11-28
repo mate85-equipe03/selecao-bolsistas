@@ -37,7 +37,7 @@ Este repositório é fruto de trabalho da **Disciplina MATE85 - Tópicos em Sist
 
 Acesse:
 
-  https://posgress.netlify.app/
+  https://sisbolsas.netlify.app/
 
 ## Documentação
 * [Arquitetura](https://github.com/mate85-equipe03/selecao-bolsistas/blob/main/docs/design/arquitetura_time_3.png)
