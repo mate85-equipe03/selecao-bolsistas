@@ -70,7 +70,7 @@ Repositório: [https://github.com/mate85-equipe03/backend](https://github.com/ma
 
 ### Frontend
 
-URL: https://posgress.netlify.app/
+URL: https://sisbolsas.netlify.app/
 
 Repositório: [https://github.com/mate85-equipe03/frontend](https://github.com/mate85-equipe03/frontend)
 
