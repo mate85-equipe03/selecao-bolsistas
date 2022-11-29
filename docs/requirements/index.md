@@ -40,6 +40,8 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟩**US-14.** Como **professor membro da Comissão do PS**, após a computação das notas de todas as inscrições, quero liberar o resultado do processo.
 
+🟩**US-17.** Como **professor membro da Comissão do PS**, quero liberar o resultado final do processo.
+
 🟨**US-04.** Como **professor membro da Comissão do PS**, quero gerenciar um Processo Seletivo (PS), inserindo/editando informações básicas iniciais como nome, descrição, cronograma, upload do PDF, bolsas disponíveis para o processo conforme suas características (vagas, Mestrado/Doutorado, FAPESB/CNPQ/CAPES), etc.
 
 🟨**US-01.** Como **qualquer usuário elegível do sistema**, quero poder alterar minha senha de acesso ao sistema.
@@ -52,7 +54,6 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 
 🟥**US-16.** Como **professor membro da Comissão do PS**, quero poder avaliar um recurso encaminhado e emitir parecer.
 
-🟥**US-17.** Como **professor membro da Comissão do PS**, quero liberar o resultado final do processo.
 
 ## Status de Implementação/Implantação das Users Stories
 
